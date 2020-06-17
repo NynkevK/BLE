@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DMO BLE</string>
+    <string name="title_activity_scan">ScanActivity</string>
+    <string name="title_activity_notification">NotificationDemo</string>
+    <string name="title_activity_configure">ConfigureActivity</string>
+    <string name="title_activity_routing">RoutingActivity</string>
+    <string name="edit_message">Edit a message</string>
+    <string name="button_send">Send</string>
+</resources>
